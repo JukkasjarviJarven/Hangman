@@ -1,5 +1,5 @@
 package src;
-
+//* fuckad stat*//
 public class Hangman {
     public static void guess(String ord, int life)  {
         char[] filler= new char[ord.length()];
